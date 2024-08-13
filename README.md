@@ -22,6 +22,9 @@ TicketPag es la solución ideal para propietarios y administradores de propiedad
 ![logo-400x400](https://github.com/user-attachments/assets/1d6cea8a-e6b3-4078-b508-3a2190489ddb)
 
 
+![imagen del sistema](https://github.com/user-attachments/assets/bcd1f306-0f5c-4a64-afcd-1cee60a6e3d0)
+
+
 ----
 
 
